@@ -1,0 +1,1 @@
+This website was made to connect to an SQL Server and retrieve the data onto a C# website.
